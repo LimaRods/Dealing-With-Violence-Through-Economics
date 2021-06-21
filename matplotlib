@@ -6,19 +6,8 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "#Libraries\n",
-    "import pandas as pd\n",
-    "import numpy as np\n",
-    "import math\n",
-    "import datetime as dt\n",
-    "import os\n",
-    "import re\n",
-    "import scipy\n",
-    "import matplotlib.pyplot as plt\n",
-    "import seaborn as sea\n",
-    "%notebook matplotlib\n",
-    "from IPython.core.display import display, HTML\n",
-    "display(HTML(\"<style>.container { width:100% !important; }</style>\"))"
+    "df_atlas_hd = pd.read_excel('3. Atlas de Desenvolvimento Humano/Dados_registro_administrativo_total_2013_2017.xlsx', sheet_name= 'MUNICÍPIO')\n",
+    "df_atlas_hd"
    ]
   }
  ],
