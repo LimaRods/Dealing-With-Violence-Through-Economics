@@ -2,6 +2,8 @@
 *.xlsx
 *.xls
 *.html
+*.shx
+*.txt
 Presentation
 *.zip
 ambos_os_sexos.xls
@@ -9,6 +11,7 @@ PNAD_Continua_2017_Rendimento_de_Todas_as_Fontes.xls
 API_SI.POV.GINI_DS2_en_csv_v2_2252167
 matplotlib
 .ipynb_checkpoints
+
 
 
 
